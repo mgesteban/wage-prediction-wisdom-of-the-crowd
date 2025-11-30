@@ -107,7 +107,8 @@ Here is your section properly formatted in clean, valid Markdown:
    ```bash
    git clone https://github.com/<your-username>/wisdom-of-the-crowd-regression.git
    cd wisdom-of-the-crowd-regression
-````
+```
+
 
 2. **Create and activate a virtual environment:**
 
