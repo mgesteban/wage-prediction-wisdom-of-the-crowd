@@ -97,21 +97,38 @@ Key findings:
 
 Permutation importance was chosen because it is model-agnostic and directly measures how much each feature impacts prediction error when its values are randomly shuffled.
 
+Here is your section properly formatted in clean, valid Markdown:
+
+````markdown
 ## How to Run This Project
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/<your-username>/wisdom-of-the-crowd-regression.git
    cd wisdom-of-the-crowd-regression
-2. Create and activate a virtual environment
+````
+
+2. **Create and activate a virtual environment:**
+
    ```bash
    python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-3. Install dependencies
-```bash
-pip install -r requirements.txt
-4. Launch Jupyter and open the notebook:
-``` bash
-jupyter notebook notebooks/wisdom_of_the_crowd_regression.ipynb
-4. Run all cells to reproduce the analysis
+   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+   ```
+
+3. **Install dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Launch Jupyter and open the notebook:**
+
+   ```bash
+   jupyter notebook notebooks/wisdom_of_the_crowd_regression.ipynb
+   ```
+
+5. **Run all cells** to reproduce the analysis.
+
+```
+
