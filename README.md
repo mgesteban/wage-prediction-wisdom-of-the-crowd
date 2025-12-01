@@ -99,6 +99,8 @@ Permutation importance was chosen because it is model-agnostic and directly meas
 
 Here is your section properly formatted in clean, valid Markdown:
 
+Here is the corrected Markdown syntax — everything is now properly opened and closed:
+
 ````markdown
 ## How to Run This Project
 
@@ -107,8 +109,7 @@ Here is your section properly formatted in clean, valid Markdown:
    ```bash
    git clone https://github.com/<your-username>/wisdom-of-the-crowd-regression.git
    cd wisdom-of-the-crowd-regression
-   ```
-
+````
 
 2. **Create and activate a virtual environment:**
 
@@ -132,4 +133,8 @@ Here is your section properly formatted in clean, valid Markdown:
 5. **Run all cells** to reproduce the analysis.
 
 ```
+
+
+```
+
 
