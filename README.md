@@ -107,7 +107,7 @@ Here is the corrected Markdown syntax — everything is now properly opened and 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/wisdom-of-the-crowd-regression.git
+   git clone https://github.com/<your-username>/wisdom-of-the-crowd.git
    cd wisdom-of-the-crowd-regression
 ````
 
@@ -127,7 +127,7 @@ Here is the corrected Markdown syntax — everything is now properly opened and 
 4. **Launch Jupyter and open the notebook:**
 
    ```bash
-   jupyter notebook notebooks/wisdom_of_the_crowd_regression.ipynb
+   jupyter notebook notebooks/wisdom_of_the_crowd.ipynb
    ```
 
 5. **Run all cells** to reproduce the analysis.
