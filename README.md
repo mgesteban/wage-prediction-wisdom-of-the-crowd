@@ -107,8 +107,8 @@ Here is the corrected Markdown syntax — everything is now properly opened and 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/wisdom-of-the-crowd.git
-   cd wisdom-of-the-crowd-regression
+   git clone https://github.com/<your-username>/wage-prediction-wisdom-of-the-crowd.git
+   cd wage-prediction-wisdom-of-the-crowd
 ````
 
 2. **Create and activate a virtual environment:**
